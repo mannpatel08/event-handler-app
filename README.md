@@ -32,6 +32,6 @@ deleteStudent(id)
 markStatus(id, "present")
 
 
-## 📌 Output Screenshot
 
-![Screenshot 2025-12-01 142807](https://github.com/user-attachments/assets/bc7eb537-7939-4928-b9a0-a06f4e3dc310)
+![Screenshot 2025-12-01 142807](https://github.com/user-attachments/assets/ea027083-454b-4621-a4d8-540403209794)
+
